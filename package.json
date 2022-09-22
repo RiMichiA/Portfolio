@@ -1,6 +1,6 @@
 {
     "name": "portfolio",
-    "homepage": "https://rimichia.github.io/Portfolio/",
+    "homepage": "https://rimichia.github.io/portfolio/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
